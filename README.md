@@ -6,7 +6,7 @@
 
 # Youtube Links
 
-[https://youtu.be/8JJ101D3knE](Git Tutorial for Beginners: Learn Git in 1 Hour)
+[Git Tutorial for Beginners: Learn Git in 1 Hour](https://youtu.be/8JJ101D3knE)
 
 # Webiste Links
 
