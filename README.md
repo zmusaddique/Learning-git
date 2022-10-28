@@ -10,7 +10,13 @@
 
 # Twitch Links
 
-# Twitter threads
+# Twitter Threads
+
+[10 Git commands you should know as a developer ( Very Important )](https://twitter.com/atharvatwts/status/1585564479739162624?s=20&t=XQrjH529ST0mIDKCmJSjxA)
+
+[Best of Git Cheat Sheet](https://twitter.com/Sheraj99/status/1500640832831033347?s=20&t=D-75WlJM4sCjyeQPUiY4Dw)
+
+[Learn Git And GitHub for FREE](https://twitter.com/Damn_coder/status/1585125484169695232?s=20&t=XQrjH529ST0mIDKCmJSjxA)
 
 # Website Links
 
