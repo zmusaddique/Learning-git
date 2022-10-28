@@ -8,6 +8,10 @@
 
 [Git Tutorial for Beginners: Learn Git in 1 Hour](https://youtu.be/8JJ101D3knE)
 
+# Twitch Links
+
+# Twitter threads
+
 # Website Links
 
 [w3schools](https://www.w3schools.com/git/)
@@ -17,5 +21,3 @@
 [learngitbranching](https://learngitbranching.js.org/)
 
 [dangitgit](https://dangitgit.com/)
-
-# Twitch Links
