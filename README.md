@@ -8,7 +8,7 @@
 
 [Git Tutorial for Beginners: Learn Git in 1 Hour](https://youtu.be/8JJ101D3knE)
 
-# Webiste Links
+# Website Links
 
 [w3schools](https://www.w3schools.com/git/)
 
