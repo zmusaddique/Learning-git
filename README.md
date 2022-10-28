@@ -8,6 +8,8 @@
 
 [Git Tutorial for Beginners: Learn Git in 1 Hour](https://youtu.be/8JJ101D3knE)
 
+[Complete Git and GitHub Tutorial](https://youtu.be/apGV9Kg7ics)
+
 # Webiste Links
 
 [w3schools](https://www.w3schools.com/git/)
