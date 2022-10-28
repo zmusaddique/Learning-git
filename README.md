@@ -27,3 +27,7 @@
 [learngitbranching](https://learngitbranching.js.org/)
 
 [dangitgit](https://dangitgit.com/)
+
+[An Intro to Git and GitHub for Beginners (Tutorial)](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+
+[What is Git? - AWS](https://aws.amazon.com/devops/source-control/git/)
